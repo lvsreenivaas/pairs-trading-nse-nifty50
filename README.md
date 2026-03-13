@@ -72,7 +72,6 @@ Run all cells in order. The full pipeline takes ~5 minutes (1,035 cointegration 
 - [ ] Rerun on NIFTY Smallcap 100 universe (faster mean reversion expected)
 - [ ] Test on 2-year rolling windows to capture regime-specific pairs
 - [ ] Add Kalman filter for dynamic hedge ratio estimation
-- [ ] Implement live paper trading via Zerodha Kite API
 
 ## Disclaimer
 
