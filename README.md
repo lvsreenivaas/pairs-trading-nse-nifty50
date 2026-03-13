@@ -67,12 +67,6 @@ jupyter notebook pairs_trading_clean.ipynb
 
 Run all cells in order. The full pipeline takes ~5 minutes (1,035 cointegration tests).
 
-## Next Steps
-
-- [ ] Rerun on NIFTY Smallcap 100 universe (faster mean reversion expected)
-- [ ] Test on 2-year rolling windows to capture regime-specific pairs
-- [ ] Add Kalman filter for dynamic hedge ratio estimation
-
 ## Disclaimer
 
 This is a research project built for educational purposes. Past backtest performance does not guarantee future results. Not financial advice.
